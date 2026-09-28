@@ -1,6 +1,7 @@
 # 方塘像素體 16x16 | SqrPond 16x16
 
-![1](doc/1.png)
+![1](doc/light.png#gh-light-mode-only)
+![2](doc/dark.png#gh-dark-mode-only)  
 
 ## ℹ️ 簡　介
  - 這是一款基於「[JF Dot Izumi Gothic](http://jikasei.me/font/jf-dotfont/)」增補並翻新的中日文像素字體。
